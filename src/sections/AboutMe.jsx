@@ -10,7 +10,7 @@ const AboutMe = () => {
       </h4>
       <div className="flex flex-col lg:flex-row gap-16 items-center justify-center">
         <div className="flex-1">
-          <h4 className="hidden lg:block w-[200px] section-title text-left">
+          <h4 className="hidden lg:block w-[200px] section-title">
             About Me
           </h4>
           <p className="text-md text-justify leading-6 whitspace-pre-line mt-4">
