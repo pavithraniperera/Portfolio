@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 const Tabs = ({ tabList, activeTab, onchange }) => {
   const getActiveStyle =(value)=>{
          return activeTab===value
-         ?"text-white  bg-gradient-to-r from-[#f4a44f] to-[#ac573f]"
+         ?"text-white  sm:bg-gradient-to-r from-[#f4a44f] to-[#ac573f] bg-[#f4a44f]"
          :"text-[#ac573f] bg-transparent"
   }
   return( 
