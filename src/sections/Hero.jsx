@@ -18,7 +18,7 @@ const Hero = () => {
           </h3>
           <h1
             className="w-full lg:w-[530px] text-4xl lg:text-5xl  font-bold leadin-[50px] lg:leading-[60px] 
-            mt-3 bg-gradient-to-r from-[#f4a44f] to-[#ac573f] bg-clip-text text-transparent "
+            mt-3 sm:bg-gradient-to-r from-[#f4a44f] to-[#ac573f] bg-clip-text text-transparent bg-[#f4a44f] "
           >
             Engineering the Future, One Line of Code at a Time
           </h1>
