@@ -35,7 +35,7 @@ const Hero = () => {
             <button className="flex-1 md:flex-none action-btn-outline btn-scale-anim">
               View My Work
             </button>
-            <a href="https://your-resume-link.com/resume.pdf" download="Pavithrani_Resume.pdf">
+            <a href="https://drive.google.com/file/d/11KaNbbXILJoy5X7cduY-bQpRq8UlOeby/view?usp=drive_link" download="Pavithrani_Resume.pdf">
                <button className="flex-1 md:flex-none action-btn btn-scale-anim">
                   Download Resume
                </button>
