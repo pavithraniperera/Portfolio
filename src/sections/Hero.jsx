@@ -1,5 +1,5 @@
 import React from "react";
-import Profile from "../assets/images/Profile.png";
+import Profile from "../assets/images/ProfileNew.png";
 import Python from "../assets/images/python icon.png";
 import Java from "../assets/images/java icon.png";
 import JavaScript from "../assets/images/javascript icon.png";
