@@ -5,12 +5,12 @@ import { ABOUT_ME } from "../utils/data";
 const AboutMe = () => {
   return (
     <section id="about" className="container mx-auto px-8 py-16">
-      <h4 className="block lg:hidden w-[200px] section-title text-center mb-16">
+      <h4 className="block lg:hidden w-[200px] section-title text-center mb-16 mx-auto">
         About Me
       </h4>
       <div className="flex flex-col lg:flex-row gap-16 items-center justify-center">
         <div className="flex-1">
-          <h4 className="hidden lg:block w-[200px] section-title">
+          <h4 className="hidden lg:block w-[200px] section-title mx-auto">
             About Me
           </h4>
           <p className="text-md text-justify leading-6 whitspace-pre-line mt-4">
