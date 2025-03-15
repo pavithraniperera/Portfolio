@@ -35,9 +35,12 @@ const Hero = () => {
             <button className="flex-1 md:flex-none action-btn-outline btn-scale-anim">
               View My Work
             </button>
-            <button className="flex-1 md:flex-none action-btn btn-scale-anim">
-              Download Resume
-            </button>
+            <a href="https://your-resume-link.com/resume.pdf" download="Pavithrani_Resume.pdf">
+               <button className="flex-1 md:flex-none action-btn btn-scale-anim">
+                  Download Resume
+               </button>
+            </a>
+
           </div>
         </div>
         <div className="w-[400px] md:w-[370px] h-[350px] md:h-[420px] md:bg-orange-100/50 rounded-3xl relative  order-1 lg:order-2 lg:ml-auto lg:justify-between  ">
